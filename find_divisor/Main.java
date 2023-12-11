@@ -8,7 +8,6 @@ import java.util.StringTokenizer;
 public class Main {
     private static int N;
     private static int K;
-    private static int answer;
     private static StringBuilder sb = new StringBuilder();
 
     public static void main(String[] args) throws IOException{
