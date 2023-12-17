@@ -1,4 +1,4 @@
-package Nth_largest_number;
+package lee_seung_min.Nth_largest_number;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package gcd_lcm;
+package lee_seung_min.gcd_lcm;
 
 import java.io.BufferedReader;
 import java.io.IOException;

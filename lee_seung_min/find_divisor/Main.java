@@ -1,4 +1,4 @@
-package find_divisor;
+package lee_seung_min.find_divisor;
 
 import java.io.BufferedReader;
 import java.io.IOException;

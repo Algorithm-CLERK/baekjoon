@@ -1,4 +1,4 @@
-package escape;
+package lee_seung_min.escape;
 
 import java.io.BufferedReader;
 import java.io.IOException;

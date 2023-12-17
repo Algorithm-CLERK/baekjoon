@@ -1,4 +1,4 @@
-package find_binary_number;
+package lee_seung_min.find_binary_number;
 
 import java.io.BufferedReader;
 import java.io.IOException;

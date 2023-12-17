@@ -1,4 +1,4 @@
-package find_prime_number;
+package lee_seung_min.find_prime_number;
 
 import java.io.BufferedReader;
 import java.io.IOException;

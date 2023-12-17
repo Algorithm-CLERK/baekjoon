@@ -1,4 +1,4 @@
-package seven_dwarfs;
+package lee_seung_min.seven_dwarfs;
 
 import java.io.BufferedReader;
 import java.io.IOException;

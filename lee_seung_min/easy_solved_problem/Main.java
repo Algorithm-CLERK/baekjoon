@@ -1,4 +1,4 @@
-package easy_solved_problem;
+package lee_seung_min.easy_solved_problem;
 
 import java.io.BufferedReader;
 import java.io.IOException;

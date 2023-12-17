@@ -1,4 +1,4 @@
-package intelligent_train_2;
+package lee_seung_min.intelligent_train_2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

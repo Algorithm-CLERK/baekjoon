@@ -1,4 +1,4 @@
-package fibonacci_numbers_5;
+package lee_seung_min.fibonacci_numbers_5;
 
 import java.io.BufferedReader;
 import java.io.IOException;

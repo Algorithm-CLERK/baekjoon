@@ -1,4 +1,4 @@
-package min_max;
+package lee_seung_min.min_max;
 
 import java.io.BufferedReader;
 import java.io.IOException;
