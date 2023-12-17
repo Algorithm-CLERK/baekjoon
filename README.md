@@ -1,9 +1,9 @@
 # 백준 알고리즘 스터디
 
-- 튼튼한 기본기 리스트   
+- 튼튼한 기본기 리스트
   | 문제 URL | 승민 |
   | --- | -- |
-  | [약수구하기](https://www.acmicpc.net/problem/2501) | [o] |
+  | [약수구하기](https://www.acmicpc.net/problem/2501) | [o]|
   | [이진수](https://www.acmicpc.net/problem/3460) | [o] |
   | [최소, 최대](https://www.acmicpc.net/problem/10818) | [o] |
   | [지능형 기차 2](https://www.acmicpc.net/problem/2460) | [o] |
@@ -15,11 +15,11 @@
   | [쉽게 푸는 문제](https://www.acmicpc.net/problem/1292) | [o] |
   | [소수](https://www.acmicpc.net/problem/2581) | [o] |
   | [탈출](https://www.acmicpc.net/problem/3055) | [x] |
+  | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | [x] |
 
 - 약점 체크 리스트
-  | 문제 URL | 승민 |   
+  | 문제 URL | 승민 |  
   | --- | -- |
-  | [재귀 탐색의 기본](https://www.acmicpc.net/problem/14888) | [ ] |
   | [괄호의 값](https://www.acmicpc.net/problem/2504) | [ ] |
   | [빗물](https://www.acmicpc.net/problem/14719) | [ ] |
   | [가르침](https://www.acmicpc.net/problem/1062) | [ ] |
@@ -30,7 +30,7 @@
   | [부분 문자열](https://www.acmicpc.net/problem/16916) | [ ] |
   | [줄 세우기](https://www.acmicpc.net/problem/2252) | [ ] |
 
-- 기초 백준 문제 추천 리스트   
+- 기초 백준 문제 추천 리스트  
   | 문제 URL | 승민 |
   | --- | -- |
   | [수들의 합](https://www.acmicpc.net/problem/1789) | [ ] |
@@ -42,7 +42,7 @@
   | [가르침](https://www.acmicpc.net/problem/1062) | [ ] |
   | [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) | [ ] |
 
-- DFS, BFS 기본 문제 리스트   
+- DFS, BFS 기본 문제 리스트  
   | 문제 URL | 승민 |
   | --- | -- |
   | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [ ] |
@@ -58,7 +58,7 @@
   | [아기상어 2](https://www.acmicpc.net/problem/17086) | [ ] |
   | [달리기](https://www.acmicpc.net/problem/16930) | [ ] |
 
-- 강훈련 백준 문제 리스트   
+- 강훈련 백준 문제 리스트  
   | 문제 URL | 승민 |
   | --- | -- |
   | [퇴사 2](https://www.acmicpc.net/problem/15486) | [ ] |
@@ -80,7 +80,7 @@
   | [팰린드롬](https://www.acmicpc.net/problem/10942) | [ ] |
   | [ABC](https://www.acmicpc.net/problem/12969) | [ ] |
 
-- 빈출 문제 리스트   
+- 빈출 문제 리스트  
   | 문제 URL | 승민 |
   | --- | -- |
   | [신기한 소수](https://www.acmicpc.net/problem/2023) | [ ] |
@@ -91,7 +91,7 @@
   | [합리적인 이동경로](https://www.acmicpc.net/problem/2176) | [ ] |
   | [우수 마을](https://www.acmicpc.net/problem/1949) | [ ] |
 
-- 강훈련 리스트   
+- 강훈련 리스트  
   | 문제 URL | 승민 |
   | --- | -- |
   | [iSharp](https://www.acmicpc.net/problem/3568) | [ ] |
