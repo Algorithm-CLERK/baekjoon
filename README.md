@@ -20,7 +20,7 @@
 - 약점 체크 리스트
   | 문제 URL | 승민 |  
   | --- | -- |
-  | [괄호의 값](https://www.acmicpc.net/problem/2504) | [ ] |
+  | [괄호의 값](https://www.acmicpc.net/problem/2504) | [x] |
   | [빗물](https://www.acmicpc.net/problem/14719) | [ ] |
   | [가르침](https://www.acmicpc.net/problem/1062) | [ ] |
   | [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | [ ] |
