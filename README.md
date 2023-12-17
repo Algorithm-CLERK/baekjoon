@@ -20,7 +20,6 @@
 - 약점 체크 리스트
   | 문제 URL | 승민 |  
   | --- | -- |
-  | [재귀 탐색의 기본](https://www.acmicpc.net/problem/14888) | [ ] |
   | [괄호의 값](https://www.acmicpc.net/problem/2504) | [ ] |
   | [빗물](https://www.acmicpc.net/problem/14719) | [ ] |
   | [가르침](https://www.acmicpc.net/problem/1062) | [ ] |
