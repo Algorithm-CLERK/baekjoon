@@ -22,7 +22,7 @@
   | --- | -- |
   | [괄호의 값](https://www.acmicpc.net/problem/2504) | [x] |
   | [빗물](https://www.acmicpc.net/problem/14719) | [o] |
-  | [가르침](https://www.acmicpc.net/problem/1062) | [ ] |
+  | [가르침](https://www.acmicpc.net/problem/1062) | [x] |
   | [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | [ ] |
   | [부분합](https://www.acmicpc.net/problem/1806) | [ ] |
   | [최소비용 구하기](https://www.acmicpc.net/problem/1916) | [ ] |
