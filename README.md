@@ -26,7 +26,7 @@
   | [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | [x] |
   | [부분합](https://www.acmicpc.net/problem/1806) | [o] |
   | [최소비용 구하기](https://www.acmicpc.net/problem/1916) | [x] |
-  | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | [ ] |
+  | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | [o] |
   | [부분 문자열](https://www.acmicpc.net/problem/16916) | [ ] |
   | [줄 세우기](https://www.acmicpc.net/problem/2252) | [ ] |
 
