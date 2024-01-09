@@ -20,15 +20,15 @@
 - 약점 체크 리스트
   | 문제 URL | 승민 |  
   | --- | -- |
-  | [괄호의 값](https://www.acmicpc.net/problem/2504) | [ ] |
-  | [빗물](https://www.acmicpc.net/problem/14719) | [ ] |
-  | [가르침](https://www.acmicpc.net/problem/1062) | [ ] |
-  | [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | [ ] |
-  | [부분합](https://www.acmicpc.net/problem/1806) | [ ] |
-  | [최소비용 구하기](https://www.acmicpc.net/problem/1916) | [ ] |
-  | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | [ ] |
-  | [부분 문자열](https://www.acmicpc.net/problem/16916) | [ ] |
-  | [줄 세우기](https://www.acmicpc.net/problem/2252) | [ ] |
+  | [괄호의 값](https://www.acmicpc.net/problem/2504) | [x] |
+  | [빗물](https://www.acmicpc.net/problem/14719) | [o] |
+  | [가르침](https://www.acmicpc.net/problem/1062) | [x] |
+  | [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | [x] |
+  | [부분합](https://www.acmicpc.net/problem/1806) | [o] |
+  | [최소비용 구하기](https://www.acmicpc.net/problem/1916) | [x] |
+  | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | [o] |
+  | [부분 문자열](https://www.acmicpc.net/problem/16916) | [x] |
+  | [줄 세우기](https://www.acmicpc.net/problem/2252) | [x] |
 
 - 기초 백준 문제 추천 리스트  
   | 문제 URL | 승민 |
