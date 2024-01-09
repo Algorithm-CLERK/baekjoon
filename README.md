@@ -33,7 +33,7 @@
 - 기초 백준 문제 추천 리스트  
   | 문제 URL | 승민 |
   | --- | -- |
-  | [수들의 합](https://www.acmicpc.net/problem/1789) | [ ] |
+  | [수들의 합](https://www.acmicpc.net/problem/1789) | [o] |
   | [사탕 게임](https://www.acmicpc.net/problem/3085) | [ ] |
   | [동전 1](https://www.acmicpc.net/problem/2293) | [ ] |
   | [동전 2](https://www.acmicpc.net/problem/2294) | [ ] |
