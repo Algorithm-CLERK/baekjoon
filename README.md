@@ -34,7 +34,7 @@
   | 문제 URL | 승민 |
   | --- | -- |
   | [수들의 합](https://www.acmicpc.net/problem/1789) | [o] |
-  | [사탕 게임](https://www.acmicpc.net/problem/3085) | [ ] |
+  | [사탕 게임](https://www.acmicpc.net/problem/3085) | [o] |
   | [동전 1](https://www.acmicpc.net/problem/2293) | [ ] |
   | [동전 2](https://www.acmicpc.net/problem/2294) | [ ] |
   | [단지번호붙이기](https://www.acmicpc.net/problem/2667) | [ ] |
